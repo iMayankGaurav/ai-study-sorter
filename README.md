@@ -41,6 +41,7 @@ Run the script while your Android device is connected:
 
 ```bash
 python study_sorter.py
+```
 
 The agent will:
 
