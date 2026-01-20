@@ -27,7 +27,7 @@ This script acts as an autonomous agent that:
 
 2.  **Install Dependencies:**
     ```bash
-    pip install mobilerun
+    pip install droidrun[mobilerun]
     ```
 
 3.  **Configuration:**
