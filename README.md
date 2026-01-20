@@ -44,6 +44,7 @@ python study_sorter.py
 ```
 
 The agent will:
+
     Launch the gallery for each image.
 
     Print the AI's classification decision in the console.
