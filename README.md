@@ -44,9 +44,6 @@ python study_sorter.py
 ```
 
 The agent will:
-
-    Wake up the device (if using an emulator).
-
     Launch the gallery for each image.
 
     Print the AI's classification decision in the console.
